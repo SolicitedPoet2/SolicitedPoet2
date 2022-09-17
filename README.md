@@ -1,5 +1,4 @@
 ### Hi there human 👋
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning C#(It has been 2 years since I learn C#) and Unity to make a rhythm game which I want to make!
 - 🤔 I’m looking for help with my logic on programs, it would be awesome if someone was help me in that!
