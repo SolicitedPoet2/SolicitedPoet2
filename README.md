@@ -5,18 +5,19 @@
 
 - 🔭 Estou trabalhando atualmente no projeto [NerdSystem API](https://github.com/NerdSystem0228/nerdsystem-api)
 
-- 🌱 I’m currently learning **Django, C#**
+- 🌱 Estou atualmente aprendendo **Django, C#**
 
-- 🤝 I’m looking for help with **Backend and Frontend topics**
+- 🤝 Estou buscando ajuda com **Backend and Frontend topics**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NerdSystem0228](https://github.com/NerdSystem0228)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/NerdSystem0228](https://github.com/NerdSystem0228)
 
-- 💬 Ask me about **Python, FastAPI, Backend**
+- 💬 Pode falar comigo sobre **Python, FastAPI, Backend**
 
-- 📫 How to reach me **sofia.ks.barros@gmail.com**
+- 📫 Como ter contato comigo **sofia.ks.barros@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/sofia-ks-barros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofia-ks-barros" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
